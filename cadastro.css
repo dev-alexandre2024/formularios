@@ -46,3 +46,16 @@ form button:hover{
 #complemento{
     color: #000;
 }
+#botao{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0077cc;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
