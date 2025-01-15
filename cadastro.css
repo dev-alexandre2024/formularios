@@ -6,3 +6,43 @@ body{
     background-size: cover;
     color: white;
 }
+         
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+form{
+    background-color: #fff;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000;
+}
+form h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+form input{
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+form button{
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #0077cc;
+    color: #fff;
+    cursor: pointer;
+}
+form button:hover{
+    background-color: #005fa3;
+}
+#complemento{
+    color: #000;
+}
