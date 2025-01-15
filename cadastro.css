@@ -1,0 +1,8 @@
+*{
+    font-family: cursive, 'Arial Narrow Bold', sans-serif;
+}
+body{
+   background-image: linear-gradient(to right,red,black);
+    background-size: cover;
+    color: white;
+}
