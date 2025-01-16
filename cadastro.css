@@ -1,17 +1,19 @@
-*{
+* {
     font-family: cursive, 'Arial Narrow Bold', sans-serif;
 }
-body{
-   background-image: linear-gradient(to right,red,black);
+
+body {
+    background-image: linear-gradient(to right, red, black);
     background-size: cover;
     color: white;
 }
-         
-body{
+
+body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
 }
-form{
+
+form {
     background-color: #fff;
     width: 300px;
     margin: 0 auto;
@@ -19,18 +21,21 @@ form{
     border-radius: 5px;
     box-shadow: 0 0 10px #000;
 }
-form h1{
+
+form h1 {
     text-align: center;
     margin-bottom: 20px;
 }
-form input{
+
+form input {
     width: calc(100% - 20px);
     padding: 10px;
     margin: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-form button{
+
+form button {
     width: 100%;
     padding: 10px;
     margin: 5px;
@@ -40,13 +45,16 @@ form button{
     color: #fff;
     cursor: pointer;
 }
-form button:hover{
+
+form button:hover {
     background-color: #005fa3;
 }
-#complemento{
+
+#complemento {
     color: #000;
 }
-#botao{
+
+#botao {
     width: auto;
     display: flex;
     align-items: center;
